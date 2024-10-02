@@ -1,0 +1,2 @@
+ID: 1	NAME: random	SALARY: 791.25
+ID: 2	NAME: unknown	SALARY: 91.25
